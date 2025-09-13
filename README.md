@@ -115,8 +115,3 @@ This project answers real-world analytics questions relevant to Walmart and reta
 
 Contributions are welcome! Fork the repo, make your changes, and open a pull request.
 
----
-
-## 📜 License
-
-This project is open source and licensed under the [MIT License](LICENSE).
